@@ -1,0 +1,7 @@
+{
+  "name": "codeswag-map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
